@@ -2,7 +2,7 @@ Hey! I'm Raizel, a software engineer with a love for coding, research, and gamin
 
 - 👀 Interests: Exploring new technologies, game development, and full-stack web development.
 - 💞️ Collaboration: I'm looking to work on exciting software projects, particularly those related to gaming or innovative web applications.
-- 📫 Contact: You can reach me on Discord @coderaizel or through my [GitHub profile](https://github.com/your-github-profile).
+- 📫 Contact: You can reach me on Discord @coderaizel or through my [GitHub profile](https://github.com/coderaizel).
 - ⚡ Fun Fact: I love discovering new things and constantly challenging myself to improve!
 
 Check out my [YouTube channel](https://www.youtube.com/channel/UC_kOxyoz3O8mwDqrMBKwUEw) for more content!
