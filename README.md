@@ -1,8 +1,8 @@
-Hey! I'm Raizel, a software engineer skilled in Python, C#, C++, Java, and PHP. When I'm not coding, I'm working out, sleeping, or eating. Let's connect and create something cool! 👩‍💻
+Hey! I'm Raizel, a software engineer with a love for coding, research, and gaming. My main focus is on SmallWorlds, where I dive into gameplay, reverse engineering, and in-depth research. Whether you're a seasoned player or new to the game, my content offers valuable insights and fun experiences. While SmallWorlds is my primary passion, I also explore other games occasionally. Let's connect and create something awesome together! 👩‍💻
 
-- 👀 I’m interested in exploring new technologies, game development, and full-stack web development.
-- 🌱 I’m currently learning about Flask applications and improving my understanding of data synchronization and persistent data representation.
-- 💞️ I’m looking to collaborate on exciting software projects, especially those related to gaming or innovative web applications.
-- 📫 How to reach me: You can find me on Discord @coderaizel or through my GitHub profile.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm passionate about weight loss and fitness, and I'm always looking for new workout routines to try!
+- 👀 Interests: Exploring new technologies, game development, and full-stack web development.
+- 💞️ Collaboration: I'm looking to work on exciting software projects, particularly those related to gaming or innovative web applications.
+- 📫 Contact: You can reach me on Discord @coderaizel or through my [GitHub profile](https://github.com/your-github-profile).
+- ⚡ Fun Fact: I love discovering new things and constantly challenging myself to improve!
+
+Check out my [YouTube channel](https://www.youtube.com/channel/UC_kOxyoz3O8mwDqrMBKwUEw) for more content!
